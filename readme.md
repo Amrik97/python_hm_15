@@ -16,4 +16,32 @@
 Примеры выполнения
 
 Вызов из командной строки
+![img-01](https://github.com/Amrik97/python_hm_15/assets/121186386/d5b336f9-be1e-4dcf-8a39-e5b9815152cc)
 
+Работа без передачи параметров
+![img-02](https://github.com/Amrik97/python_hm_15/assets/121186386/0743edbc-9e9b-4e07-afbb-22cd474c505e)
+
+Пример вывода справки
+![img-03](https://github.com/Amrik97/python_hm_15/assets/121186386/bcea3fea-7a3e-4373-8cd8-79b152fbb335)
+
+Пример лога
+
+![img-04](https://github.com/Amrik97/python_hm_15/assets/121186386/c872a5b2-45ea-4924-85e5-33e2c05c0f34)
+
+Задача 2
+Задача о студентах (12 семинар). Логирование операции добавления дисциплин и сохранения данных в файл. Для логирования используется декоратор. Работа производиться ч/з командную строку.
+
+Пример выполнения
+
+Вызов программы
+
+![img-05](https://github.com/Amrik97/python_hm_15/assets/121186386/eef45586-e1d5-4557-a150-00d9b6471242)
+
+
+Лог файл
+![img-06](https://github.com/Amrik97/python_hm_15/assets/121186386/43d60437-5082-45aa-b26a-58e61b924872)
+
+
+Справка
+
+![img-07](https://github.com/Amrik97/python_hm_15/assets/121186386/e8e816f6-8bd1-4405-a0c0-7d5b525a35b2)
