@@ -46,12 +46,3 @@
 Справка
 
 ![img-07](https://github.com/Amrik97/python_hm_15/assets/121186386/e8e816f6-8bd1-4405-a0c0-7d5b525a35b2)
-
-
-Лог файл
-
-![img.png](img/img-06.png)
-
-Справка 
-
-![img_1.png](img/img-07.png)
